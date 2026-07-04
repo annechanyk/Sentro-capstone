@@ -1,0 +1,6 @@
+{
+  "client_name": "Bob Smith",
+  "account_balance": 3500000,
+  "flag_reason": "Large transfer from high-risk jurisdiction (BVI)",
+  "kyc_status": "Missing passport renewal"
+}
